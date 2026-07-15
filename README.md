@@ -6,11 +6,13 @@ These SMS Terms and Conditions govern the use of text messaging communications p
 
 1. Consent to Receive SMS Messages
 
-By providing your mobile phone number and opting in verbally, electronically, or through the appointment scheduling process, you consent to receive SMS messages from Garner Rheumatology and Infusion Center, PLLC.
+By opting in to receive SMS messages from Garner Rheumatology and Infusion Center, you agree to receive customer care messages.
 
-These messages are intended for healthcare-related customer care communications only.
-
-Message frequency may vary based on your appointments, infusion treatments, and care needs. Standard message and data rates may apply according to your wireless carrier plan.
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates: Message and data rates may apply.
+Opt-out: Reply STOP to cancel SMS messages at any time.
+Help: Reply HELP for assistance.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/GarnerRheumatologyandInfusionCenter_PP
 
 2. Types of Messages
 
